@@ -8,8 +8,8 @@
 <br>🌱**I am passionate about animals and plants.**
 <br>🫂**Additionally, I cherish my family and aspire to leverage technological advancements to enhance people's quality of life.**
 ```
-My nickname is: Cat Under Rain
-Contact me via Github or email: catunderrainvn@gmail.com
+My nickname is: Cat Under Rain, but you can call me Hinzu
+Contact me via github or email: catunderrainvn@gmail.com
 ```
 <br>❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
 ```
