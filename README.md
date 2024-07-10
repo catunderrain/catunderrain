@@ -1,5 +1,4 @@
 # :rabbit2: INTRODUCTION :rabbit2:
-
 ❤️**Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
 <br>✨**With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
 <br>🔭**My goal is to promote the development of machines that can operate artistically and academically alongside humans.**
@@ -13,3 +12,16 @@ My nickname is: Cat Under Rain
 Contact me via Github or email: catunderrainvn@gmail.com
 ```
 <br>❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
+```
+'''#------------------------------------------------#"""
+|                                                      |
+|      XXXX         X       XXXXXXXXX   X          X   |
+|    XX    XX    XX   XX       XX       X X      X X   |
+|   XX          XX     XX      XX       X   X  X   X   |
+|   XX          XXXXXXXXX      XX       X  _    _  X   |
+|    XX    XX   XX     XX      XX        X    _,   X   |
+|      XXXX     XX     XX      XX        =====o=====   |
+|                                                      |
+|              HINZU & MOCHI PRESENTATION              |
+'''#------------------------------------------------#"""
+```
