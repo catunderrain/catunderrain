@@ -43,4 +43,10 @@ __\_\_ V i s i t c a r d \_\___
   </a>
 </div>
 
+<h3 align="center">✨ Frameworks - Tools - Languages ✨</h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flask,mysql,vscode,git,r,docker,linux,notion,opencv,pytorch" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,php,javascript,julia,latex,md" /><br>
+</div>
+
 ###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
