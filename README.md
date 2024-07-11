@@ -25,4 +25,4 @@
 |              HINZU & MOCHI PRESENTATION              |
 '''#------------------------------------------------#"""
 ```
-###### [Jump to my TODO<sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
+###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
