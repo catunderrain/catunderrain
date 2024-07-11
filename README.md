@@ -1,5 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
+</h3>
+
+<div align="center">
+  
 # :rabbit2: INTRODUCTION :rabbit2:
+
+</div>
+
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
 <br>✨ **With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
 <br>🔭 **My goal is to promote the development of machines that can operate artistically and academically alongside humans.**
@@ -13,6 +23,10 @@
 > **Contact me via github or email:** `catunderrainvn@gmail.com`
 
 ❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
+
+<div align="center">
+
+__Visitcard__
 ```
 '''#------------------------------------------------#"""
 |                                                      |
@@ -26,4 +40,7 @@
 |              HINZU & MOCHI PRESENTATION              |
 '''#------------------------------------------------#"""
 ```
+
+</div>
+
 ###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
