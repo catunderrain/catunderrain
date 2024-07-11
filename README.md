@@ -1,5 +1,4 @@
 # :rabbit2: INTRODUCTION :rabbit2:
-###### [TODO](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
 <br>✨ **With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
 <br>🔭 **My goal is to promote the development of machines that can operate artistically and academically alongside humans.**
@@ -26,3 +25,4 @@
 |              HINZU & MOCHI PRESENTATION              |
 '''#------------------------------------------------#"""
 ```
+###### [Jump to my TODO<sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
