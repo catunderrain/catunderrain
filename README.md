@@ -49,4 +49,9 @@ __\_\_ V i s i t c a r d \_\___
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,php,javascript,julia,latex,md" /><br>
 </div>
 
+<div align="center">
+  <h3>🐍 My Contributions 🐍</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/output/github-contribution-grid-snake.svg" />
+</div>
+
 ###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
