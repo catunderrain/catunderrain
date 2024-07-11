@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
 # :rabbit2: INTRODUCTION :rabbit2:
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
 <br>✨ **With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
