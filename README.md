@@ -1,6 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
 
-[![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&hide=stars)](https://github.com/catunderrain/github-readme-stats)
+<h3 align="center">
+
+[![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=true&custom_title=Catunderain&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true)](https://github.com/catunderrain/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catunderrain&repo=catunderrain&theme=dracula)](https://github.com/catunderrain/catunderrain)
+</h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
