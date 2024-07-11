@@ -7,7 +7,6 @@
 <div align="center">
   
 # :rabbit2: INTRODUCTION :rabbit2:
-
 </div>
 
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
@@ -18,15 +17,14 @@
 <br>📖 **I love reading literature, poetry, and science books, and I am intrigued by the mathematical formulas that underlie life.**
 <br>🌱 **I am passionate about animals and plants.**
 <br>🫂 **Additionally, I cherish my family and aspire to leverage technological advancements to enhance people's quality of life.**
-
+<div align="center">
+  
 > **My nickname is:** Cat Under Rain, but you can call me Hinzu<br>
 > **Contact me via github or email:** `catunderrainvn@gmail.com`
 
 ❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
 
-<div align="center">
-
-__Visitcard__
+__\_\_ V i s i t c a r d \_\___
 ```
 '''#------------------------------------------------#"""
 |                                                      |
