@@ -1,5 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
 
+[![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&hide=stars)](https://github.com/catunderrain/github-readme-stats)
+
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
 </h3>
@@ -52,6 +54,15 @@ __\_\_ V i s i t c a r d \_\___
 <div align="center">
   <h3>🐍 My Contributions 🐍</h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/output/github-contribution-grid-snake.svg" />
+</div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=catunderrain&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=catunderrain&show_icons=true&theme=dracula&rank_icon=github&border_radius=10" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
