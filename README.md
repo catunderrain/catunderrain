@@ -4,12 +4,18 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
-
 </h3>
 
 <div align="center">
+  <h3>🐇 My Contributions 🐇</h3>
+  <img alt="snake eating my contributions" src="output/github-user-contribution.svg" />
+</div>
+
+---
+<div align="center">
   
-# :rabbit2:[INTRODUCTION](#🐇):rabbit2:
+### :rabbit2: INTRODUCTION :rabbit2:
+[🎹](#🐇)
 </div>
 
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
