@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🐇 My Contributions 🐇</h3>
   <img alt="snake eating my contributions" src="output/github-user-contribution.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/output/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/dist/github-contribution-grid-snake.svg" />
 </div>
 
 ---
