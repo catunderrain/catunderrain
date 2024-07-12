@@ -9,7 +9,7 @@
 <div align="center">
   <h3>🐇 My Contributions 🐇</h3>
   <img alt="snake eating my contributions" src="output/github-user-contribution.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" />
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
 </div>
 
 ---
@@ -69,7 +69,7 @@ __\_\_ V i s i t c a r d \_\___
 
 [![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=true&custom_title=Catunderain&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=20&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=50&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats)
 
@@ -81,6 +81,7 @@ __\_\_ V i s i t c a r d \_\___
 
 ###### 🐇
 ###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
+###### [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
 
 </div>
