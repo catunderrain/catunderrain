@@ -9,7 +9,8 @@
 <div align="center">
   <h3>🐇 My Contributions 🐇</h3>
   <img alt="snake eating my contributions" src="outputs/github-user-contribution.svg" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" />
+  <!-- Link to make svg file: https://platane.me/snk/ -->
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
 </div>
 
 ---
