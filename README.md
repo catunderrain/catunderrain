@@ -35,6 +35,10 @@
 
 ❤️**🐇It was a pleasure meeting you all and I hope we will progress together every day not only technically but also beyond** 🐇❤️
 
+***My favorite quote:***<br>
+**"Trí tuệ nhân tạo nghĩ gì khi tan biến?"**<sub>(vi)</sub>
+*\- Shiro Akabane 6-21:20 -*
+
 __\_\_ V i s i t c a r d \_\___
 ```
 '''#------------------------------------------------#"""
