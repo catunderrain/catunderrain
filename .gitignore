@@ -1,0 +1,19 @@
+# this is a comment
+
+# ignore all file or folder name 'cat'
+/cat
+
+# use ** like a/**/b = a/b or a/x/b or a/x/y/b ...
+
+# use *.py to deny file .py in root folder
+# for subfolders we use **/*.py
+
+# /fold/ to deny folder name 'fold' in root folder
+
+# remove without one
+# node_modules/
+# !node_modules/some_module/
+
+# remove all file start by temp: temp*
+
+# remove file or folder that hidden: .*
