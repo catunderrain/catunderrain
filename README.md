@@ -110,7 +110,7 @@ __\_\_ V i s i t c a r d \_\___
 
 <div align="center">
 
-`She will protect me, and you.`<br>
+`She will protect the codes of me, and you.`<br>
 `So, just donate to her.`
 </div>
 
@@ -122,9 +122,15 @@ __\_\_ V i s i t c a r d \_\___
 ### <sup>**Click** -></sup> <sub><sub><sub><sub><sub>[<img src="stuffs\momo.png" style="width:40px"/>](https://github.com/catunderrain/PULL-A-REQUEST-FOR-DONATION/tree/main)</sub></sub></sub></sub></sub> <sup><- Click</sup>
 
 ---
+<!-- FAVORITEs -->
+### :rabbit2: MY FAVORITES :rabbit2:
+---
 <!-- OUTTRO + GIF -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
+
 <img src="stuffs\tải xuống.gif" style="width:100%">
+
+**"** . I l o v e t h e r a i n . **"**
 
 ---
 <!-- END -->
