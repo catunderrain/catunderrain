@@ -1,11 +1,26 @@
+<!-- Visitors -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
 
+#
+<!-- Jump -->
+<div align="center">
+
+###### | [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+</div>
+
+#
+<!-- Intro GIF -->
+<img src="stuffs\hello, i'm miena!.gif" style="width:100%">
+
+---
+<!-- INTROs -->
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
 </h3>
 
+<!-- INTRODUCTION -->
 <div align="center">
   <h3>🐇 My Contributions 🐇</h3>
   <img alt="snake eating my contributions" src="outputs/github-user-contribution.svg" />
@@ -14,6 +29,7 @@
 </div>
 
 ---
+<!-- INTRO WORDS -->
 <div align="center">
   
 ### :rabbit2: INTRODUCTION :rabbit2:
@@ -39,6 +55,7 @@
 **"Trí tuệ nhân tạo nghĩ gì khi tan biến?"**<sub>(vi)</sub>
 *\- Shiro Akabane 6-21:20 -*
 
+<!-- Visitcard -->
 __\_\_ V i s i t c a r d \_\___
 ```
 '''#------------------------------------------------#"""
@@ -53,6 +70,7 @@ __\_\_ V i s i t c a r d \_\___
 |              HINZU & MOCHI PRESENTATION              |
 '''#------------------------------------------------#"""
 ```
+<!-- Linkedin -->
   <a href="https://linkedin.com/in/thaitoan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -60,6 +78,7 @@ __\_\_ V i s i t c a r d \_\___
 ---
 </div>
 
+<!-- Frameworks - Tools - Languages -->
 <h3 align="center">🐇 Frameworks - Tools - Languages 🐇</h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,mysql,vscode,git,r,docker,linux,notion,opencv,pytorch" />
@@ -67,6 +86,7 @@ __\_\_ V i s i t c a r d \_\___
 </div>
 
 ---
+<!-- Stats -->
 <h3 align="center">🐇 Stats 🐇</h3>
 <h3 align="center">
 
@@ -82,16 +102,31 @@ __\_\_ V i s i t c a r d \_\___
 </h3>
 
 ---
+<!-- Guardian -->
+<h3 align="center">🐇 MY GUARDIAN 🐇</h3>
+<img src="tải xuống.jpg" style="width:100%;border:5px solid black">
+
+<div align="center">
+
+`She will protect me, and you.`<br>
+`So, just donate to her.`
+</div>
+
+---
+<!-- Donation -->
 <div align="center">
 
 ### :rabbit2: DONATION :rabbit2:
 ### <sup>**Click** -></sup> <sub><sub><sub><sub><sub>[<img src="stuffs\momo.png" style="width:40px"/>](https://github.com/catunderrain/PULL-A-REQUEST-FOR-DONATION/tree/main)</sub></sub></sub></sub></sub> <sup><- Click</sup>
 
 ---
-
-###### 🐇
-###### [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md)
-###### [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD)
+<!-- OUTTRO + GIF -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
+<img src="stuffs\tải xuống.gif" style="width:100%">
 
+---
+<!-- END -->
+###### - END -
 </div>
+
+
