@@ -10,7 +10,7 @@
 
 #
 <!-- Intro GIF -->
-<img src="stuffs\hello, i'm miena!.gif" style="width:100%">
+<img src="stuffs\hello, i'm miena!.gif" style="width:200%">
 
 ---
 <!-- INTROs -->
@@ -104,7 +104,7 @@ __\_\_ V i s i t c a r d \_\___
 ---
 <!-- Guardian -->
 <h3 align="center">🐇 MY GUARDIAN 🐇</h3>
-<img src="tải xuống.jpg" style="width:100%;border:5px solid black">
+<img src="tải xuống.jpg" style="width:100%">
 
 <div align="center">
 
