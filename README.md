@@ -101,16 +101,16 @@ __\_\_ V i s i t c a r d \_\___
 <h3 align="center">🐇 Stats 🐇</h3>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=oldie&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=true&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)
-<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=true&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catunderrain&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
 
 [![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answered,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=50&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript,tex,scss)](https://github.com/catunderrain/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats)
 
