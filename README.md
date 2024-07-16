@@ -31,11 +31,10 @@ if __name__ == '__main__':
 
 <!-- INTRODUCTION -->
 <div align="center">
-  <h3>🐇 My Contributions 🐇</h3>
-  <img alt="snake eating my contributions" src="outputs/github-user-contribution.svg" />
-    <img alt="snake eating my contributions" src="https://github.com/catunderrain/catunderrain/blob/output/github-contribution-grid-snake.svg" />
-  <!-- Link to make svg file: https://platane.me/snk/ -->
-  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
+<h3>🐇 My Contributions 🐇</h3>
+<img alt="snake eating my contributions" src="dist/github-contribution-grid-snake.svg" />
+<!-- Link to make svg file: https://platane.me/snk/ -->
+<!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
 </div>
 
 ---
