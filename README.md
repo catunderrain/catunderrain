@@ -13,8 +13,8 @@
 
 #
 <!-- Intro GIF -->
-<div align="center" style="width:100%">
-<img src="stuffs\hello, i'm miena!.gif" style="width:100%">
+<div align="center" style="width:100%>
+<img src="stuffs\hello, i'm miena!.gif">
 
 ```python
 if __name__ == '__main__':
