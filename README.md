@@ -100,7 +100,7 @@ __\_\_ V i s i t c a r d \_\___
 <h3 align="center">🐇 Stats 🐇</h3>
 <h3 align="center">
 
-[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=false&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=90)](https://jrohit.com.np)
+[![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=false&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catunderrain&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
