@@ -42,7 +42,7 @@ if __name__ == '__main__':
 <div align="center">
   
 ### :rabbit2: INTRODUCTION :rabbit2:
-###### [🎹](#🐇)
+###### [🎹](https://wakatime.com/dashboard)
 </div>
 
 ❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
