@@ -13,8 +13,8 @@
 
 #
 <!-- Intro GIF -->
-<div align="center" style="width:100%">
-<img src="stuffs\hello, i'm miena!.gif">
+<div align="center">
+<img src="stuffs\hello, i'm miena!.gif" style="width:100%">
 
 ```python
 if __name__ == '__main__':
@@ -100,7 +100,7 @@ __\_\_ V i s i t c a r d \_\___
 <h3 align="center">🐇 Stats 🐇</h3>
 <h3 align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&theme=high-contrast&hide_title=true&custom_title=CONTRIBUTION&grid=true" width="95%" alt="activity graph" style="border-radius: 20px"></a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&theme=high-contrast&hide_title=true&custom_title=CONTRIBUTION&grid=true&radius=10" width="95%" alt="activity graph"></a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=catunderrain&border_radius=16&background=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&stroke=ffffff&ring=FFB6C1&fire=FFB6C1&currStreakNum=AFEEEE&sideNums=AFEEEE&currStreakLabel=FFB6C1&sideLabels=AFEEEE&dates=ffffff&excludeDaysLabel=ffffff)](https://git.io/streak-stats)
 
