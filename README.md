@@ -97,8 +97,11 @@ __\_\_ V i s i t c a r d \_\___
 
 ---
 <!-- Stats -->
+
 <h3 align="center">🐇 Stats 🐇</h3>
-<h3 align="center">
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-activity-graph.vercel.app/graph?username=catunderrain&hide_title=false&custom_title=CONTRIBUTION&grid=true&radius=16&bg_color=000000&color=ffffff&line=FFB6C1&point=AFEEEE&days=30)](https://jrohit.com.np)
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
@@ -112,7 +115,7 @@ __\_\_ V i s i t c a r d \_\___
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=catunderrain&repo=catunderrain&theme=dracula&show_owner=true&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/catunderrain)
-</h3>
+</div>
 
 ---
 <!-- Guardian -->
@@ -134,7 +137,11 @@ __\_\_ V i s i t c a r d \_\___
 
 ---
 <!-- FAVORITEs -->
-### :rabbit2: MY FAVORITES :rabbit2:
+### :rabbit2: MY FAVORITE STUFFS :rabbit2:
+
+[![](https://skillicons.dev/icons?i=styledcomponents&perline=1)](#)
+<br>S t y l e d C o m p o n e n t s : )
+
 ---
 <!-- OUTTRO + GIF -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+New&duration=1&pause=200&color=000000&center=true&vCenter=true&random=false&width=500&lines=%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%90%87%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%E2%9D%A4%EF%B8%8F%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%8C%BF;%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95%F0%9F%92%95" alt="Typing SVG" /></a>
