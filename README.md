@@ -32,7 +32,7 @@ if __name__ == '__main__':
 <!-- INTRODUCTION -->
 <div align="center">
 <h3>🐇 My Contributions 🐇</h3>
-<img alt="snake eating my contributions" src="dist/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="profile-3d-contrib/github-contribution-grid-snake.svg" />
 <!-- Link to make svg file: https://platane.me/snk/ -->
 <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/catunderrain/catunderrain/ouput/github-contribution-grid-snake.svg" /> -->
 </div>
