@@ -15,6 +15,11 @@
 <!-- Intro GIF -->
 <div align="center">
 <img src="stuffs\hello, i'm miena!.gif" style="width:200%">
+
+```python
+if __name__ == '__main__':
+  life = Continue(learn)
+```
 </div>
 
 ---
