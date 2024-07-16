@@ -15,6 +15,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            
       - name: Commit & Push
         run: |
           git config user.name github-actions
@@ -22,3 +30,5 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+      
