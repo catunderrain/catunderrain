@@ -1,15 +1,18 @@
 <!-- Visitors -->
 <div>
-  <img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" />
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
+<img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" />
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
+  
+<div align="center">
+
+###### | [TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+</div>
 </div>
 
 #
 <!-- Jump -->
-<div align="center">
 
-###### | [Jump to my TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
-</div>
 
 #
 <!-- Intro GIF -->
