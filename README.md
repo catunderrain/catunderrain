@@ -11,10 +11,6 @@
 </div>
 
 #
-<!-- Jump -->
-
-
-#
 <!-- Intro GIF -->
 <div align="center">
 <img src="stuffs\hello, i'm miena!.gif" style="width:100%">
