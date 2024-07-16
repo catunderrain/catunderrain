@@ -6,11 +6,11 @@
   
 <div align="center">
 
-###### | [TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
 </div>
 </div>
 
-#
+---
 <!-- Intro GIF -->
 <div align="center">
 <img src="stuffs\hello, i'm miena!.gif" style="width:100%">
