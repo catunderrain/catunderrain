@@ -112,7 +112,7 @@ __\_\_ V i s i t c a r d \_\___
 
 [![catunderrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=catunderrain&theme=dracula&include_all_commits=false&custom_title=Catunderain&number_format=long&show=discussions_started,discussions_answered,prs_merged&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500)](https://github.com/catunderrain/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript,tex,scss)](https://github.com/catunderrain/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catunderrain&theme=dracula&langs_count=100&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff&card_width=500&exclude_repo=&hide=postscript)](https://github.com/catunderrain/github-readme-stats)
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@catunderrain&theme=dracula&layout=compact&show_icons=true&border_radius=16&bg_color=000000&title_color=FFB6C1&icon_color=AFEEEE&text_color=ffffff)](https://github.com/catunderrain/github-readme-stats)
 
