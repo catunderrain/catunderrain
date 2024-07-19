@@ -121,6 +121,17 @@ __\_\_ V i s i t c a r d \_\___
 </div>
 
 ---
+<h3 align="center">🐇 MY GANGZ 🐇</h3>
+<div align="center">
+
+╔═════════════════════:heart:═════════════════════╗
+###### ║ `Mochi` <sub>*as*</sub> `Bánh Bao Mochi Kem` *-* `Dumpling Mochi Cream` <sub>*or*</sub> `Dump Mochi` <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGI5b2Nlazdla3J0cnJrNzlhbnNkZzZnZjAzc2loZ3YydnR5eXJ1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FWAcpJsFT9mvrv0e7a/giphy.webp" style="height: 2em"> ║
+
+###### ║ `Hinzu` <sub>*as*</sub> `Mật Vụ Hinzu` *-* `Hinzu the Secret Agent` <sub>*or*</sub> `Gangzter Hinzu`<img src="https://media1.tenor.com/m/35ni8kV6UqIAAAAC/damian-desmond-spy-x-family.gif" style="height:2em"> ║
+╚═════════════════════:rabbit2:═════════════════════╝
+</div>
+
+---
 <!-- Guardian -->
 <h3 align="center">🐇 MY GUARDIAN 🐇</h3>
 <img src="tải xuống.jpg" style="width:100%">
