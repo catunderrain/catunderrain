@@ -6,7 +6,7 @@
   
 <div align="center">
 
-###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
+###### | [Jump to TODO <sub>private](https://github.com/catunderrain/TO-DO/blob/main/readme.md) | [TASKSDONE](https://github.com/catunderrain/TO-DO/blob/main/TASK_I_HAD_DONE.md) | [Jump to mainboard <sub>private](https://github.com/catunderrain/TO-DO/blob/main/MAINBOARD.MD) |
 </div>
 </div>
 
@@ -45,7 +45,7 @@ if __name__ == '__main__':
 ###### [🎹](https://wakatime.com/dashboard)
 </div>
 
-❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI student.**
+❤️ **Hi! My name is Toan, I'm from Viet Nam and I'm an AI learner.**
 <br>✨ **With three years of in-depth research in machine learning, I aim to apply AI and machine learning to practical applications that assist humans, particularly in audio and image signal processing.**
 <br>🔭 **My goal is to promote the development of machines that can operate artistically and academically alongside humans.**
 <br>🎸 **I enjoy playing musical instruments, particularly the piano and guitar, and I have a keen interest in music and art.**
