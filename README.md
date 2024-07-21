@@ -1,8 +1,4 @@
-<detail>
-<summary>
 
-Love Mochi ❤️
-</summary>
 <!-- Visitors -->
 <div>
 <img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" />
@@ -27,6 +23,11 @@ if __name__ == '__main__':
 </div>
 
 ---
+<details>
+<summary>
+  
+###### ***Love Mochi ❤️***
+</summary>
 <!-- INTROs -->
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
@@ -177,6 +178,7 @@ __\_\_ V i s i t c a r d \_\___
 <!-- END -->
 ###### - END -
 </div>
+
 </details>
 
 
