@@ -1,3 +1,8 @@
+<detail>
+<summary>
+
+Love Mochi ❤️
+</summary>
 <!-- Visitors -->
 <div>
 <img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" />
@@ -172,5 +177,6 @@ __\_\_ V i s i t c a r d \_\___
 <!-- END -->
 ###### - END -
 </div>
+</details>
 
 
