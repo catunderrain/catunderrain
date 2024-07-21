@@ -100,7 +100,7 @@ __\_\_ V i s i t c a r d \_\___
 <h3 align="center">🐇 Stats 🐇</h3>
 <div align="center">
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=oldie&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=oldie&margin-w=0&margin-h=0&column=8&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=7&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
@@ -121,6 +121,7 @@ __\_\_ V i s i t c a r d \_\___
 </div>
 
 ---
+<!--My gangz-->
 <h3 align="center">🐇 MY GANGZ 🐇</h3>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Old+English+Text+MT&weight=900&size=26&duration=100&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%E2%99%B0+%C2%B7+C+h+i+z+u+G+a+n+g+Z+%C2%B7+%E2%99%B0%09;c%C2%B7g%C2%B7z" alt="Typing SVG" /></a>
@@ -130,6 +131,7 @@ __\_\_ V i s i t c a r d \_\___
 
 ###### <img src="https://media1.tenor.com/m/35ni8kV6UqIAAAAC/damian-desmond-spy-x-family.gif" style="height:2em"> **Hinzu** <sub>*as*</sub> **Mật Vụ Hinzu** <sub>*-*</sub> **Hinzu the Secret Agent** <sub>*or*</sub> **Gangzter Hinzu** <img src="https://media1.tenor.com/m/35ni8kV6UqIAAAAC/damian-desmond-spy-x-family.gif" style="height:2em">
 🐇╚════════════════════════════════════════════╝🐇
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Old+English+Text+MT&weight=900&size=26&duration=100&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=%E2%99%B0+%C2%B7+C+h+i+z+u+G+a+n+g+Z+%C2%B7+%E2%99%B0%09;c%C2%B7g%C2%B7z" alt="Typing SVG" /></a>
 </div>
 
