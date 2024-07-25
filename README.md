@@ -106,7 +106,7 @@ __\_\_ V i s i t c a r d \_\___
 <div align="center">
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=oldie&margin-w=0&margin-h=0&column=8&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=8&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=catunderrain&theme=gruvbox&margin-w=0&margin-h=0&column=9&no-frame=false&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](profile-3d-contrib/profile-season-animate.svg)
 <!-- ![](profile-3d-contrib/profile-gitblock.svg) -->
