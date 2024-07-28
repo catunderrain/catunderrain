@@ -22,6 +22,7 @@ if __name__ == '__main__':
 </div>
 
 ---
+<!-- Details -->
 <details>
 <summary>
   
@@ -97,6 +98,13 @@ __\_\_ V i s i t c a r d \_\___
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flask,mysql,vscode,git,r,docker,linux,notion,opencv,pytorch" />
     <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,php,javascript,julia,latex,md" /><br>
+</div>
+
+---
+<!-- Code Style -->
+<h3 align="center">🐇 Code Style 🐇</h3>
+<div align="center">
+    <img src="stuffs/image.png" />
 </div>
 
 ---
