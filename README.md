@@ -151,7 +151,7 @@ __\_\_ V i s i t c a r d \_\___
 ---
 <!-- Guardian -->
 <h3 align="center">🐇 MY GUARDIAN 🐇</h3>
-<img src="stuffs/guardian-100.png" style="width:100%">
+<img src="stuffs/guardianX4.png" style="width:100%">
 
 <div align="center">
 
