@@ -29,6 +29,16 @@ if __name__ == '__main__':
 ###### ***Love Mochi ❤️***
 </summary>
 <!-- INTROs -->
+
+---
+<div align="center">
+
+**Y O !**
+![](stuffs/ichigo-0.026.png)
+**W H O - A M - I ?**
+</div>
+
+---
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=1600&pause=1600&color=FFB0E8&center=true&vCenter=true&random=false&width=500&lines=Xin+chao!+Hi!+Salut!🐇❤️;I'm+Catunderrain!🐈‍⬛💧" alt="Typing SVG" /></a>
 
