@@ -26,7 +26,7 @@ if __name__ == '__main__':
 <details>
 <summary>
   
-###### ***Love the rain cat ❤️***
+###### ***Love the rain ❤️***
 </summary>
 <!-- INTROs -->
 
