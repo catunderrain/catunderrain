@@ -1,6 +1,6 @@
 <!-- Visitors -->
 <div>
-<img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" />
+<!-- <img align="left" src="https://visitcount.itsvg.in/api?id=a&label=Homies&color=7&icon=7&pretty=false" /> -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=catunderrain.catunderrain"/>
   
